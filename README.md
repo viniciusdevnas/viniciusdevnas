@@ -21,6 +21,6 @@
 
   <div>
   <a href = "mailto:viniciusnascimento.dev25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/vinicius-nascimento-araújo-213819391" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[www.linkedin.com/in/vinicius-nascimento-araújo-213819391](https://www.linkedin.com/in/vinicius-nascimento-ara%C3%BAjo-213819391/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
